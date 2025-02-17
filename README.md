@@ -28,11 +28,11 @@ Models & Performance:
    Random Forest
    SVM
 Performance:
+
      Random Forest Performance:
                   Accuracy: 0.99
                   AUC: 1.00
-
-    SVM Performance:
+     SVM Performance:
                   Accuracy: 1.00
                   AUC: 1.00
 
@@ -50,5 +50,5 @@ Results
 High Accuracy: Models consistently score above 98% accuracy.
 AUC = 1.00 for certain models, indicating excellent discrimination ability.
 Minimal False Positives/Negatives: The confusion matrix shows very few misclassifications.
-ROC Curve for the best model:
+
 
